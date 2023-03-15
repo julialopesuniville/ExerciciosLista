@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Documento HTML mínimo</title>
+    <meta charset="utf-8">
+ </head>
+ <body>
+    <h1>Cardápio </h1>
+    <h2> Doces </h2>
+    <ul>
+      <li> Bolo</li>
+      <li> Brigadeiro </li>
+      <li> Pudim</li>
+     <img src="https://www.guiadasemana.com.br/contentFiles/system/pictures/2016/6/162264/original/paris-6-grand-gateau.jpg" style="width: 150px; height: 100px; margin: 0px;"/> 
+
+<h2> Salgados </h2>
+    <ul>
+      <li> Pão de queijo </li>
+      <li> Empadão </li>
+   <img src="https://blog.consumer.com.br/wp-content/uploads/2020/11/culin%C3%A1ria-regional-brasileira.jpg" 
+style="width: 150px; height: 100px; margin: 0px;"/>
+
+  </ul>
+ </body>
+</html>
